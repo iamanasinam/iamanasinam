@@ -32,6 +32,7 @@
 [![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white "C")][repo]
 [![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white "Cpp")][repo]
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")](https://github.com/iamanasinam)
 
 ## 🛠️ **DEVOPS TOOLS**
 
