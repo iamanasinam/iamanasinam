@@ -24,7 +24,7 @@
 ## 📅 **DATABASES**
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
-https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")](https://github.com/iamanasinam)
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
