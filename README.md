@@ -48,13 +48,12 @@
 ## 📄 **CODE EDITOR & IDEs**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-   
 
-[repo]: https://github.com/iamanasinam
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanasinam&show_icons=true&locale=en&layout=compact" alt="iamanasinam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamanasinam&show_icons=true&locale=en" alt="iamanasinam" /></p>
+[repo]: https://github.com/iamanasinam
+
 
 
 
