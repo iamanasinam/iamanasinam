@@ -12,6 +12,7 @@ I build complete software systems, from product architecture and databases to au
 
 <br />
 
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Plus-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~014f02c304ff0ca006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-anasinam.com-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anasinam.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Anas_Inam-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/iamanasinam/)
 [![GitHub](https://img.shields.io/badge/GitHub-iamanasinam-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iamanasinam)
@@ -20,7 +21,40 @@ I build complete software systems, from product architecture and databases to au
 
 ---
 
-## Professional Snapshot
+# Professional Track Record
+
+<table>
+<tr>
+<td align="center" width="20%">
+<strong>Top Rated Plus</strong><br/>
+Upwork
+</td>
+<td align="center" width="20%">
+<strong>100%</strong><br/>
+Job Success
+</td>
+<td align="center" width="20%">
+<strong>26</strong><br/>
+Upwork Jobs
+</td>
+<td align="center" width="20%">
+<strong>695+</strong><br/>
+Upwork Hours
+</td>
+<td align="center" width="20%">
+<strong>4.8 / 5</strong><br/>
+14 Upwork Reviews
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/View_Verified_Work_History-Upwork-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~014f02c304ff0ca006/)
+
+</div>
+
+<br />
 
 <table>
 <tr>
@@ -55,7 +89,7 @@ Current Leadership Roles
 
 ---
 
-## What I Help Clients Build
+# What I Help Clients Build
 
 | Need                            | What I Deliver                                                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -71,7 +105,7 @@ I can work on one part of a system or take ownership of the complete delivery pa
 
 ---
 
-## About Me
+# About Me
 
 I'm **Muhammad Anas Inam**, a Full-Stack and Automation Engineer working across modern web development, SaaS, AI automation, backend systems, integrations, and infrastructure.
 
@@ -93,6 +127,26 @@ Today my work includes:
 * Production debugging and system maintenance
 
 I particularly enjoy projects where **product engineering, business logic, automation, AI, APIs, and infrastructure have to work together**.
+
+---
+
+# Freelance Engineering
+
+My Upwork work is focused primarily on **n8n automation, full-stack development, AI systems, integrations, and business workflow automation**.
+
+<div align="center">
+
+### Upwork
+
+**Top Rated Plus · 100% Job Success · 26 Jobs · 695+ Hours · 4.8/5 Rating**
+
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_Me_on-Upwork-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~014f02c304ff0ca006/)
+
+</div>
+
+I typically work with clients who need someone who can understand the **whole system**, not only one isolated task.
+
+That may involve taking an existing workflow, identifying where it is failing, changing application code, working with APIs, updating the database, fixing an n8n workflow, managing a worker or queue, deploying the change, and verifying the complete production flow.
 
 ---
 
@@ -295,22 +349,43 @@ At Smart Solutions Hub, I work across both engineering and technical delivery.
 
 My work has been recommended by founders, managers, and businesses I have worked with.
 
-**Jaime Zorrilla · Founder & CEO, Ai-Me**
+### Jaime Zorrilla
+
+**Founder & CEO · Ai-Me**
+
 Full-stack development and AI automation across client-facing systems.
 
-**Fhidman Faltz · Faltz Investments, Inc.**
+### Fhidman Faltz
+
+**Faltz Investments, Inc.**
+
 React development, responsive interfaces, internal dashboards, and REST API integration.
 
-**Brian Smith · BS Services and Logistics**
+### Brian Smith
+
+**BS Services and Logistics**
+
 Recognized for clear communication, collaborative development, and reliable milestone delivery.
 
-**Jakub Zygmunt · Founder, Dollarro**
+### Jakub Zygmunt
+
+**Founder · Dollarro**
+
 Worked across Azure architecture, .NET/ASP.NET development, and enterprise systems.
 
-**Nargis Nayeel Sadaat · President, 2N Consulting Group**
+### Nargis Nayeel Sadaat
+
+**President · 2N Consulting Group**
+
 Recognized for responsibility, consistency, delivery, and technical contribution.
 
-[View projects and full recommendations →](https://anasinam.com/)
+<div align="center">
+
+[![Portfolio Reviews](https://img.shields.io/badge/View_Full-Recommendations-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anasinam.com/)
+
+[![Upwork Reviews](https://img.shields.io/badge/View_Upwork-Work_History_%26_Reviews-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~014f02c304ff0ca006/)
+
+</div>
 
 ---
 
@@ -382,6 +457,13 @@ Recognized for responsibility, consistency, delivery, and technical contribution
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=flat-square)
 
+### Messaging & Business Automation
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=flat-square)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square\&logo=google-sheets\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-24292F?style=flat-square)
+
 ### Infrastructure & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
@@ -401,10 +483,10 @@ Recognized for responsibility, consistency, delivery, and technical contribution
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)
 
-### Authentication & Integrations
+### Authentication & Services
 
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square\&logo=clerk\&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square\&logo=stripe\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
 
@@ -414,14 +496,15 @@ Recognized for responsibility, consistency, delivery, and technical contribution
 
 # Professional Experience
 
-| Organization               | Role                 | Focus                                                                          |
-| -------------------------- | -------------------- | ------------------------------------------------------------------------------ |
-| **AI-Foodify**             | **CTO**              | SaaS architecture, product engineering, automation, AI and infrastructure      |
-| **Smart Solutions Hub**    | **Team Lead**        | Full-stack development, automation, DevOps, technical delivery and code review |
-| **2N Consulting Group**    | Full-Stack Developer | Web applications, frontend/backend development and integrations                |
-| **Dollarro**               | Developer            | Azure, .NET, ASP.NET, databases and enterprise systems                         |
-| **Adept Tech Solutions**   | AI Intern            | AI/ML concepts and practical AI development                                    |
-| **Al-Burraq Technologies** | Web Developer Intern | Web development and full-stack foundations                                     |
+| Organization               | Role                        | Focus                                                                                           |
+| -------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------- |
+| **AI-Foodify**             | **CTO**                     | SaaS architecture, product engineering, automation, AI and infrastructure                       |
+| **Smart Solutions Hub**    | **Team Lead**               | Full-stack development, automation, DevOps, technical delivery and code review                  |
+| **Freelance / Upwork**     | **Top Rated Plus Engineer** | Full-stack development, n8n automation, AI systems, integrations and production troubleshooting |
+| **2N Consulting Group**    | Full-Stack Developer        | Web applications, frontend/backend development and integrations                                 |
+| **Dollarro**               | Developer                   | Azure, .NET, ASP.NET, databases and enterprise systems                                          |
+| **Adept Tech Solutions**   | AI Intern                   | AI/ML concepts and practical AI development                                                     |
+| **Al-Burraq Technologies** | Web Developer Intern        | Web development and full-stack foundations                                                      |
 
 ---
 
@@ -496,7 +579,7 @@ Production Debugging
 
 # GitHub Activity
 
-Most of my production work is built for clients and private systems, so public repositories only represent part of my day-to-day engineering work.
+A significant amount of my engineering work is built for clients and private production systems, so public repositories represent only part of my day-to-day development activity.
 
 <div align="center">
 
@@ -506,7 +589,7 @@ Most of my production work is built for clients and private systems, so public r
 
 </div>
 
-> Public GitHub activity is one signal. The production systems, live projects, client work, infrastructure, integrations, and engineering responsibilities above are a more complete representation of my work.
+> Public GitHub activity is one signal. My production systems, live projects, Upwork history, client work, infrastructure, integrations, and engineering responsibilities provide a more complete view of my experience.
 
 ---
 
@@ -545,6 +628,8 @@ I enjoy working on products where multiple parts of engineering have to come tog
 **SaaS · Full-Stack Development · AI Agents · Automation · APIs · Databases · Queues · Infrastructure**
 
 <div align="center">
+
+[![Hire on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~014f02c304ff0ca006/)
 
 [![Portfolio](https://img.shields.io/badge/View_My_Work-anasinam.com-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anasinam.com/)
 
