@@ -4,11 +4,21 @@
 
 ### Full-Stack Engineer · Automation Engineer · SaaS & AI Systems
 
-I build production web applications, SaaS platforms, workflow automations, AI-powered systems, and the infrastructure that keeps them running.
+**I design, build, automate, deploy, and maintain production software.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anasinam.com-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anasinam.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamanasinam-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/iamanasinam/)
-[![GitHub](https://img.shields.io/badge/GitHub-iamanasinam-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iamanasinam)
+Next.js · TypeScript · Node.js · PostgreSQL · Supabase · Redis · n8n · AI Agents · Docker · Linux
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-anasinam.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anasinam.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Anas_Inam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamanasinam/)
+[![GitHub](https://img.shields.io/badge/GitHub-iamanasinam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamanasinam)
+
+<br />
+
+![GitHub followers](https://img.shields.io/github/followers/iamanasinam?style=flat-square&logo=github&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/iamanasinam?style=flat-square&logo=github&label=Stars)
+![Profile](https://img.shields.io/badge/Profile-Active-success?style=flat-square)
 
 </div>
 
@@ -16,496 +26,647 @@ I build production web applications, SaaS platforms, workflow automations, AI-po
 
 ## About Me
 
-I'm **Muhammad Anas Inam**, a Full-Stack Developer and Automation Engineer focused on building complete, production-ready systems.
+I'm **Muhammad Anas Inam**, a Full-Stack and Automation Engineer based in Pakistan.
 
-My work goes beyond frontend and backend development. I regularly work across application architecture, databases, APIs, background workers, AI agents, workflow automation, authentication, integrations, testing, deployments, and production infrastructure.
+Most of my recent work sits at the intersection of **software products, automation, AI, integrations, and infrastructure**.
 
-I started with the MERN stack and expanded into **Next.js, TypeScript, PostgreSQL, Supabase, Fastify, Redis, BullMQ, Docker, Azure, n8n, Chatwoot, AI agents, CI/CD, and VPS infrastructure**.
+I work across the complete engineering lifecycle:
 
-Today, I work on systems ranging from SaaS products and business platforms to AI-powered customer communication, CRM automation, ordering systems, appointment agents, and high-volume background processing.
+**requirements → architecture → database → backend → frontend → integrations → automation → testing → deployment → production debugging**
 
-I currently work as:
+I started with traditional MERN development and gradually moved into building and operating much broader production systems using **Next.js, TypeScript, PostgreSQL, Supabase, Fastify, Redis, BullMQ, Docker, Linux, n8n, Chatwoot, AI agents, Azure, Vercel, and third-party APIs**.
 
-* **CTO at AI-Foodify**, leading product architecture, automation, infrastructure, and technical development.
-* **Team Lead at Smart Solutions Hub**, leading full-stack development, automation projects, DevOps work, and end-to-end client delivery.
+Today, my work includes SaaS platforms, AI-powered business systems, messaging automation, CRM workflows, appointment agents, ordering systems, background workers, dashboards, integrations, and production infrastructure.
 
-I have worked across **25+ projects** covering SaaS, restaurant technology, healthcare, logistics, finance, lead generation, e-commerce, business automation, AI, and internal operational systems.
+### Current Roles
 
----
-
-## What I Work On
-
-### Full-Stack & SaaS Development
-
-I build complete applications from database schema and backend APIs to frontend interfaces and production deployment.
-
-Typical work includes:
-
-* SaaS platforms
-* Customer and admin portals
-* Dashboards
-* Authentication and role-based access
-* Order and invoice systems
-* Subscription and payment flows
-* REST APIs
-* Background processing
-* Multi-tenant applications
-* Internal business platforms
-
-### Automation & AI
-
-I design systems that reduce repetitive manual work and connect multiple services together.
-
-My automation work includes:
-
-* n8n workflow architecture
-* AI assistants and conversational agents
-* WhatsApp automation
-* Chatwoot integrations
-* CRM automation
-* Lead processing
-* Appointment booking systems
-* Automated follow-ups
-* Data synchronization
-* Google Sheets integrations
-* Webhooks and API pipelines
-* AI-generated responses and decision flows
-* Scheduled and event-driven workflows
-
-### Backend & Distributed Workflows
-
-I work on backend systems where reliability matters, including:
-
-* Node.js and Fastify APIs
-* PostgreSQL data models
-* Redis-backed processing
-* BullMQ workers
-* Job queues
-* Retry and recovery mechanisms
-* Deduplication
-* Scheduled jobs
-* Rate-limited API integrations
-* Worker safety
-* Background campaign processing
-
-### DevOps & Production Infrastructure
-
-I also manage the environment where applications actually run.
-
-My infrastructure work includes:
-
-* Linux VPS administration
-* Docker and Docker Compose
-* Production deployments
-* Vercel deployments
-* Azure
-* Coolify
-* PostgreSQL management
-* Redis deployments
-* Reverse proxies
-* Environment configuration
-* Application migrations
-* Backups and recovery
-* CI/CD workflows
-* Production debugging
-* Monitoring and performance troubleshooting
+- **CTO · AI-Foodify**
+- **Team Lead · Smart Solutions Hub**
+- **Full-Stack & Automation Engineer**
 
 ---
 
-## Selected Work
+## Engineering Snapshot
 
-### AI-Foodify
+<div align="center">
+
+![Projects](https://img.shields.io/badge/25%2B-Projects_Delivered-0969DA?style=for-the-badge)
+![Experience](https://img.shields.io/badge/3%2B_Years-Professional_Development-2EA44F?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack-End_to_End-6F42C1?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-n8n_%26_AI-EA4B71?style=for-the-badge)
+
+![Backend](https://img.shields.io/badge/Backend-APIs_%7C_Queues_%7C_Workers-24292F?style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Docker_%7C_Linux_%7C_VPS-2496ED?style=for-the-badge)
+![Databases](https://img.shields.io/badge/Data-PostgreSQL_%7C_Supabase_%7C_Redis-4169E1?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI-Agents_%7C_LLM_Workflows-412991?style=for-the-badge)
+
+</div>
+
+---
+
+# What I Build
+
+### SaaS & Business Platforms
+
+I build full applications with:
+
+- Authentication and authorization
+- Customer and admin portals
+- Role-based access
+- Dashboards and reporting
+- Multi-step business workflows
+- Orders and invoices
+- Pricing and billing logic
+- REST APIs
+- Background workers
+- Scheduled processing
+- Third-party integrations
+- Production deployments
+
+### Automation Systems
+
+I build automation around real business processes, including:
+
+- n8n workflow architecture
+- CRM automation
+- WhatsApp automation
+- Chatwoot workflows
+- Google Sheets pipelines
+- Webhook processing
+- Lead management
+- Follow-up automation
+- Appointment workflows
+- Customer re-engagement
+- Data synchronization
+- Scheduled jobs
+- API orchestration
+
+### AI Agents
+
+My AI work focuses on connecting language models to actual business operations.
+
+That includes:
+
+- Conversational agents
+- Appointment agents
+- Customer-service assistants
+- AI-assisted CRM workflows
+- Structured tool calling
+- Multi-language conversations
+- Validation and retry logic
+- Human review workflows
+- Context management
+- AI-generated customer responses
+- Business-rule enforcement
+- LLM integrations with n8n and backend services
+
+### Backend & Background Processing
+
+I work with systems that require more than simple CRUD APIs:
+
+- Node.js services
+- Fastify APIs
+- PostgreSQL
+- Redis
+- BullMQ
+- Worker processes
+- Background queues
+- Scheduling
+- Retries
+- Recovery flows
+- Deduplication
+- Rate-limited integrations
+- Idempotent operations
+- Failure handling
+
+### Production Infrastructure
+
+I regularly work directly with production infrastructure:
+
+- Linux VPS administration
+- Docker
+- Docker Compose
+- PostgreSQL
+- Redis
+- Nginx
+- Environment configuration
+- Database migrations
+- Application upgrades
+- Vercel deployments
+- Azure
+- Coolify
+- CI/CD
+- Backups
+- Production debugging
+- Performance troubleshooting
+
+---
+
+# Selected Systems & Projects
+
+## AI-Foodify
 
 **Restaurant Automation & SaaS Platform**
 
-Building a restaurant technology platform designed to bring customer communication, ordering, operations, staff workflows, sales insights, and automation into one system.
+AI-Foodify is one of the products where I work across product direction, architecture, development, automation, and infrastructure.
 
-My work includes:
+The platform is being built around restaurant operations and customer communication.
 
-* Product and technical architecture
-* Next.js application development
-* n8n automation pipelines
-* AI-powered customer communication
-* WhatsApp and omnichannel integrations
-* Restaurant dashboards
-* Staff roles and operational workflows
-* Reordering, upselling, and customer win-back automation
-* Infrastructure and deployment strategy
+### Areas I work on
+
+- SaaS architecture
+- Restaurant dashboards
+- Customer communication
+- Ordering workflows
+- Staff roles
+- WhatsApp integration
+- Automation
+- AI customer responses
+- Sales insights
+- Customer reordering
+- Upselling workflows
+- Customer win-back automation
+- n8n integration
+- Infrastructure
+- Production deployment
 
 **Role:** CTO
 
----
+**Stack:** Next.js · TypeScript · Node.js · n8n · Chatwoot · AI · Docker
 
-### LinkedIn Outreach Automation SaaS
-
-A production-style SaaS platform for managing LinkedIn outreach and engagement workflows.
-
-The system includes:
-
-* Campaign management
-* Prospect management
-* Connection workflows
-* Automated messaging
-* Follow-up sequences
-* Likes and comments campaigns
-* Lead eligibility and filtering
-* Scheduling
-* Background workers
-* Queue-based execution
-* Retry and recovery logic
-* Deduplication
-* Bilingual interfaces
-* CRM-style prospect records
-
-**Stack:** Next.js · TypeScript · Fastify · Supabase · PostgreSQL · Redis · BullMQ · Clerk · Unipile
+🌐 [ai-foodify.com](https://ai-foodify.com/)
 
 ---
 
-### AI Appointment & Messaging Agents
+## LinkedIn Automation SaaS
 
-Built conversational automation for healthcare businesses where customers can interact through messaging channels and manage real appointments.
+A production automation platform for managing LinkedIn prospecting, engagement, and outreach workflows.
 
-Systems include:
+I work across the product, backend, frontend, API integrations, queue architecture, and worker execution.
 
-* Appointment availability search
-* Doctor selection
-* Booking
-* Rescheduling
-* Cancellation
-* Multi-language conversations
-* Customer profile updates
-* Conversation history
-* Validation and retry flows
-* WhatsApp integration
-* Chatwoot integration
-* n8n orchestration
+### Platform capabilities include
 
-The focus is not just generating AI responses, but making agents safely interact with real business systems.
+- Campaign management
+- Prospect management
+- Connection workflows
+- Initial messages
+- Follow-up sequences
+- Likes campaigns
+- Comments campaigns
+- Lead filtering
+- Eligibility rules
+- Scheduling
+- CRM-style prospect records
+- Bilingual UI
+- Background processing
+- Queue workers
+- Retry and recovery
+- Deduplication
+- API integration
+
+### Architecture
+
+**Frontend**
+
+Next.js · React · TypeScript · Tailwind CSS · Clerk
+
+**Backend**
+
+Fastify · TypeScript · PostgreSQL · Supabase
+
+**Workers**
+
+Redis · BullMQ · Node.js
+
+**Integrations**
+
+LinkedIn APIs · Webhooks · External services
 
 ---
 
-### Prestige Ice Works
+## AI Appointment & Messaging Agents
+
+I have built conversational systems for healthcare businesses where an AI assistant can interact with real appointment systems.
+
+These agents do more than generate text.
+
+They can understand a customer's request, apply business rules, call tools, validate results, and safely manage appointment operations.
+
+### Workflows include
+
+- Availability lookup
+- Doctor selection
+- Appointment booking
+- Rescheduling
+- Cancellation
+- Customer profile updates
+- Multi-language conversations
+- Conversation history
+- Validation layers
+- Retry logic
+- WhatsApp communication
+- Chatwoot
+- n8n orchestration
+
+**Stack:** n8n · Chatwoot · WhatsApp · APIs · AI/LLMs · Webhooks
+
+---
+
+## Prestige Ice Works
 
 **B2B Ordering & Operations Platform**
 
-Built a modern ordering platform for an ice manufacturing and delivery business.
+A business platform for an ice manufacturing and delivery company.
 
-The system includes:
+The project evolved from a company website into an ordering and operational system.
 
-* Retail ordering
-* Bulk ordering
-* Customer accounts
-* Customer portal
-* Product management
-* Server-side pricing
-* Delivery zones
-* Delivery fee calculation
-* Order management
-* Invoice generation
-* Secure invoice links
-* WhatsApp and email order flows
-* PostgreSQL data architecture
+### Features
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Clerk
+- Retail ordering
+- Bulk ordering
+- Guest checkout
+- Customer accounts
+- Customer profiles
+- Order history
+- Customer addresses
+- Product management
+- Database-backed pricing
+- Server-side validation
+- Delivery zones
+- Delivery-fee calculation
+- Order numbers
+- Invoice generation
+- Secure invoice links
+- WhatsApp order flows
+- Email integration
+- Admin foundation
+- Customer portal foundation
 
-Website: [prestigeice.ng](https://prestigeice.ng/)
+**Stack:** Next.js · TypeScript · PostgreSQL · Supabase · Clerk
+
+🌐 [prestigeice.ng](https://prestigeice.ng/)
 
 ---
 
-### Ibritha
+## Ibritha
 
 **AI Automation & Omnichannel Communication**
 
-Worked on an AI automation system combining customer conversations from channels such as WhatsApp, Instagram, and Facebook into a unified operational experience.
+An AI-enabled communication system combining multiple customer messaging channels into a central operational environment.
 
-The system combines:
+### Work includes
 
-* AI automation
-* Chatwoot
-* Omnichannel messaging
-* Customer communication workflows
-* Dashboard interfaces
-* Backend integrations
+- AI-powered automation
+- WhatsApp
+- Instagram
+- Facebook messaging
+- Chatwoot integration
+- Unified customer conversations
+- Dashboard workflows
+- API integration
+- Backend automation
+- Customer communication logic
 
-Website: [ibritha.com](https://ibritha.com/)
+**Stack:** AI · Chatwoot · Node.js · Next.js · APIs · Automation
 
----
-
-### Multi-WABA WhatsApp Template Manager
-
-Built a dedicated system for managing WhatsApp message templates across multiple WhatsApp Business Accounts.
-
-The platform handles:
-
-* Multiple WABAs
-* Template creation
-* Template imports
-* Approval status synchronization
-* Chatwoot synchronization
-* Responsive administration interface
-* PostgreSQL persistence
-* API-driven backend architecture
-
-**Stack:** Next.js · Fastify · Prisma · PostgreSQL · Docker
+🌐 [ibritha.com](https://ibritha.com/)
 
 ---
 
-### Smart Solutions Hub
+## Multi-WABA WhatsApp Template Manager
 
-Worked on the company's modern digital platform while also leading development and technical delivery across client projects.
+A dedicated platform for managing WhatsApp message templates across multiple WhatsApp Business Accounts.
+
+### System capabilities
+
+- Multiple WhatsApp Business Accounts
+- Template creation
+- Existing-template imports
+- Template status tracking
+- Approval synchronization
+- Chatwoot synchronization
+- Responsive administration interface
+- API backend
+- Database persistence
+- Containerized deployment
+
+**Stack:**
+
+Next.js · Fastify · Prisma · PostgreSQL · Docker
+
+---
+
+## Smart Solutions Hub
+
+I work across technical delivery and engineering leadership at Smart Solutions Hub.
 
 My responsibilities include:
 
-* Full-stack architecture
-* MERN and Next.js development
-* Automation
-* DevOps
-* Technical planning
-* Code reviews
-* Team coordination
-* Client project delivery
-* Mentoring developers
+- Full-stack development
+- System architecture
+- Automation
+- DevOps
+- Technical planning
+- Code reviews
+- Client delivery
+- Project coordination
+- Developer support
+- Production troubleshooting
 
-Website: [smartsolutionshub.co](https://smartsolutionshub.co/)
+**Role:** Team Lead
 
----
-
-## Tech Stack
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square\&logo=mui\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square\&logo=fastify\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-
-### Databases & Data
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-
-### AI & Automation
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square\&logo=anthropic\&logoColor=white)
-![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=flat-square)
-
-### Queues & Background Processing
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-Background_Jobs-D71920?style=flat-square)
-![Node.js](https://img.shields.io/badge/Workers-Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-
-### DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-
-### APIs & Integrations
-
-![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square\&logo=stripe\&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)
-
-I regularly work with third-party APIs, webhooks, CRMs, messaging platforms, payment providers, Google services, and custom backend integrations.
-
-### Authentication & Application Services
-
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square\&logo=clerk\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
-
-### Testing & Quality
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square\&logo=vitest\&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)
-
-I use automated testing, validation, E2E testing, type safety, linting, production builds, and structured debugging as part of the development process.
+🌐 [smartsolutionshub.co](https://smartsolutionshub.co/)
 
 ---
 
-## Professional Experience
+## Additional Production Work
 
-### AI-Foodify
+I have also worked on systems involving:
 
-**CTO · Dec 2025 - Present**
-
-* Leading product and technical architecture
-* Building the platform with Next.js and automation systems
-* Designing AI and n8n workflows
-* Managing infrastructure and deployment decisions
-* Coordinating product and engineering development
-
-### Smart Solutions Hub
-
-**Team Lead · Mar 2025 - Present**
-
-* Leading development of full-stack applications
-* Managing technical delivery across client projects
-* Building automation and AI solutions
-* Working across frontend, backend, databases, and infrastructure
-* Reviewing implementations and coordinating developers
-
-### 2N Consulting Group
-
-**Full-Stack Developer · Oct 2024 - Feb 2025**
-
-Worked across full-stack applications using technologies including Vue.js, Flutter, Contentful, MongoDB, APIs, and payment integrations.
-
-### Dollarro
-
-**Developer · Oct 2024 - Mar 2025**
-
-Worked with enterprise technologies including Azure, .NET, ASP.NET, MySQL, Crystal Reports, and e-commerce systems.
-
-### Adept Tech Solutions
-
-**AI Intern · Jul 2024 - Aug 2024**
-
-Worked with AI and machine learning concepts while expanding into practical AI-driven software development.
-
-### Al-Burraq Technologies
-
-**Web Developer Intern · Jun 2023 - Sep 2023**
-
-Started my professional development journey building web applications and strengthening my foundation in full-stack development.
+- Courier tracking
+- Logistics platforms
+- Business dashboards
+- Healthcare systems
+- CRM integrations
+- GoHighLevel automation
+- Missed-call processing
+- Google Sheets synchronization
+- Automated review pipelines
+- Web scraping infrastructure
+- WhatsApp integrations
+- Chatwoot deployments
+- Azure/.NET applications
+- Payment workflows
+- Company websites
+- Internal admin systems
+- Supabase/PostgreSQL maintenance
+- Dockerized services
+- Redis infrastructure
+- VPS deployments
 
 ---
 
-## How I Approach Engineering
+# Tech Stack
 
-I care about the complete lifecycle of a product, not just writing individual features.
+## Languages
 
-That means thinking about:
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+---
+
+## Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-24292F?style=for-the-badge&logo=webhook&logoColor=white" />
+</p>
+
+---
+
+## Databases & Data
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+</p>
+
+---
+
+## Queues & Background Processing
+
+<p>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/BullMQ-D71920?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Background_Workers-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Job_Queues-Production-24292F?style=for-the-badge" />
+</p>
+
+---
+
+## AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Workflows-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+</p>
+
+---
+
+## Messaging & Business Automation
+
+<p>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CRM_Automation-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
+
+---
+
+## DevOps & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VPS-Production_Infrastructure-24292F?style=for-the-badge" />
+</p>
+
+---
+
+## Version Control & CI/CD
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+---
+
+## Testing & Engineering Quality
+
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Type_Safety-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+## Authentication & Services
+
+<p>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+---
+
+# Professional Experience
+
+| Organization | Role | Focus |
+|---|---|---|
+| **AI-Foodify** | CTO | SaaS architecture, full-stack engineering, automation, AI systems, infrastructure |
+| **Smart Solutions Hub** | Team Lead | Full-stack development, automation, DevOps, code review, technical delivery |
+| **2N Consulting Group** | Full-Stack Developer | Web applications, integrations, frontend and backend development |
+| **Dollarro** | Software Development | Azure, .NET, ASP.NET, databases, enterprise application development |
+| **Adept Tech Solutions** | AI Intern | AI/ML concepts and practical AI development |
+| **Al-Burraq Technologies** | Web Developer Intern | Web development and full-stack foundations |
+
+---
+
+# How I Approach Engineering
+
+I prefer owning the complete path from an idea to a working production system.
+
+<div align="center">
+
+**Business Requirement**
+
+↓
+
+**System Design**
+
+↓
+
+**Database Architecture**
+
+↓
+
+**Backend APIs**
+
+↓
+
+**Frontend Application**
+
+↓
+
+**Authentication & Permissions**
+
+↓
+
+**Queues & Background Processing**
+
+↓
+
+**External Integrations**
+
+↓
+
+**Automation & AI**
+
+↓
+
+**Testing**
+
+↓
+
+**Deployment**
+
+↓
+
+**Monitoring & Production Debugging**
+
+↓
+
+**Iteration**
+
+</div>
+
+---
+
+# Areas I Work In
+
+| Area | Experience |
+|---|---|
+| **Frontend** | Next.js, React, Vue, TypeScript, Tailwind |
+| **Backend** | Node.js, Fastify, Express, APIs |
+| **Database** | PostgreSQL, Supabase, MongoDB, MySQL |
+| **Distributed Work** | Redis, BullMQ, background workers |
+| **Automation** | n8n, webhooks, CRM workflows |
+| **AI** | LLM agents, AI workflows, tool-based agents |
+| **Messaging** | WhatsApp, Chatwoot, omnichannel systems |
+| **DevOps** | Docker, Linux, VPS, CI/CD |
+| **Cloud** | Azure, Vercel |
+| **Testing** | Playwright, Vitest, Jest |
+| **Integrations** | REST APIs, GraphQL, webhooks, third-party APIs |
+| **Leadership** | Technical planning, reviews, coordination, delivery |
+
+---
+
+# Current Engineering Focus
 
 ```text
-Product requirements
-        ↓
-System architecture
-        ↓
-Database design
-        ↓
-Backend APIs
-        ↓
-Frontend experience
-        ↓
-Authentication & authorization
-        ↓
-Queues & background jobs
-        ↓
-Third-party integrations
-        ↓
-Testing
-        ↓
-Deployment
-        ↓
-Monitoring & production debugging
-        ↓
-Iteration
-```
-
-I particularly enjoy projects where **software development, automation, APIs, AI, and infrastructure intersect**.
-
----
-
-## Current Focus
-
-Right now, I spend most of my time working on:
-
-```text
+Full-Stack SaaS Architecture
 Next.js & TypeScript
-SaaS Architecture
-Node.js / Fastify
+Node.js & Fastify
 PostgreSQL & Supabase
 Redis & BullMQ
+Background Workers
 n8n Automation
 AI Agents
-Chatwoot & Messaging Automation
+WhatsApp & Chatwoot
 REST APIs & Webhooks
-Docker & Linux VPS
+Docker & Linux
+VPS Infrastructure
 CI/CD
-Production Infrastructure
 Testing & Reliability
+Production Debugging
 ```
 
-I'm especially interested in building systems that replace repetitive business processes with reliable software.
-
 ---
 
-## GitHub Activity
+# GitHub Engineering Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamanasinam&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Muhammad Anas Inam GitHub Stats" />
+## Contribution Overview
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanasinam&layout=compact&hide_border=true" height="165" alt="Muhammad Anas Inam Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamanasinam\&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Beyond the Code
-
-A large part of my work involves taking a business problem and figuring out how the complete technical system should work.
-
-That can mean building a frontend one day, debugging a PostgreSQL database the next, designing an n8n workflow, deploying Docker services to a VPS, fixing a queue worker, integrating an external API, or reviewing how an AI agent should make decisions.
-
-I like owning that full journey.
-
----
-
-## Let's Connect
-
-I'm always interested in discussing **full-stack applications, SaaS products, automation, AI systems, integrations, and engineering challenges**.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-anasinam.com-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anasinam.com/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Anas_Inam-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/iamanasinam/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-@iamanasinam-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iamanasinam)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamanasinam&theme=github_dark&animation=load" alt="Muhammad Anas Inam GitHub Contribution Overview" />
 
 </div>
 
@@ -513,6 +674,155 @@ I'm always interested in discussing **full-stack applications, SaaS products, au
 
 <div align="center">
 
-### Building software that connects products, people, APIs, automation, AI, and infrastructure.
+## GitHub KPIs
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamanasinam&theme=github_dark&animation=load" alt="GitHub Statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamanasinam&theme=github_dark&utcOffset=5&animation=load" alt="Productive Time" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Language Analytics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamanasinam&theme=github_dark&animation=load" alt="Repositories Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamanasinam&theme=github_dark&animation=load" alt="Most Used Commit Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Activity
+
+[![Muhammad Anas Inam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamanasinam&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamanasinam&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamanasinam&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# Beyond Writing Code
+
+A large part of my work is figuring out **how the whole system should behave**, not just implementing isolated screens.
+
+On a normal project, I may move between:
+
+- Designing a PostgreSQL schema
+- Building a Next.js interface
+- Writing backend APIs
+- Debugging a worker
+- Reviewing a queue failure
+- Building an n8n workflow
+- Integrating an external API
+- Updating a Docker deployment
+- Troubleshooting a Linux VPS
+- Reviewing production logs
+- Testing a customer workflow
+- Improving an AI agent
+- Working with a client on product requirements
+
+That ability to move across the stack is what I enjoy most about software engineering.
+
+---
+
+# Engineering Principles
+
+### Build for the real workflow
+
+The application should solve the actual business process, not just look complete in a demo.
+
+### Keep business logic on the server
+
+Pricing, permissions, validation, critical workflows, and other important rules should not depend on the browser.
+
+### Expect external APIs to fail
+
+Integrations need validation, retries, recovery, timeouts, logging, and sensible failure handling.
+
+### Automate repetitive work
+
+If the same reliable process is being performed manually again and again, it is usually worth examining whether software should handle it.
+
+### Production is part of development
+
+Deployment, logs, databases, migrations, queues, backups, infrastructure, and debugging are part of building the system, not separate from it.
+
+### AI should connect to real tools
+
+The useful part of an AI agent is not simply generating text. It is being able to understand context, follow business rules, call the correct tools, validate outcomes, and safely continue a workflow.
+
+---
+
+# What I Enjoy Building
+
+I'm particularly interested in projects involving a combination of:
+
+**SaaS + APIs + Automation + AI + Business Logic + Infrastructure**
+
+Examples include:
+
+- SaaS products
+- AI-enabled business platforms
+- CRM automation
+- Workflow automation
+- Messaging systems
+- Internal tools
+- Customer portals
+- Admin dashboards
+- Ordering systems
+- Appointment platforms
+- Lead-generation systems
+- Queue-based applications
+- Integration-heavy platforms
+- Operational software
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+### Portfolio
+
+[![Portfolio](https://img.shields.io/badge/anasinam.com-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anasinam.com/)
+
+### LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/Muhammad_Anas_Inam-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamanasinam/)
+
+### GitHub
+
+[![GitHub](https://img.shields.io/badge/@iamanasinam-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamanasinam)
+
+<br />
+
+**Full-Stack Engineering · SaaS · Automation · AI · APIs · Infrastructure**
+
+<br />
+
+*"I like building systems where the frontend, backend, automation, data, AI, and infrastructure all have to work together."*
 
 </div>
